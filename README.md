@@ -1,6 +1,6 @@
 <h1>eBookstore</h1>
 
-Welcome to eBookstore, a simple and easy-to-use application for bookstore clerks to track product inventory.\
+Welcome to eBookstore, a simple and easy-to-use application for bookstore clerks to track product inventory.
 
 <h2>🌟 Features</h2>
 
